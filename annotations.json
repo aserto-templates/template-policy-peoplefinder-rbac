@@ -1,0 +1,8 @@
+{
+"$manifest": {
+    "org.opencontainers.image.vendor": "Aserto",
+    "org.opencontainers.image.authors": "Aserto",
+    "org.opencontainers.image.title": "Policy Template for Peoplefinder",
+    "org.opencontainers.image.description":"RBAC Template for Peoplefinder application."
+  }
+}
