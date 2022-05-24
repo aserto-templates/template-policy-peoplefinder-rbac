@@ -4,6 +4,7 @@
         "org.opencontainers.image.authors": "Aserto",
         "org.opencontainers.image.title": "policy-peoplefinder-rbac",
         "org.opencontainers.image.description": "PeopleFinder RBAC policy template.",
+        "org.opencontainers.image.source": "https://github.com/aserto-templates/template-policy-peoplefinder-rbac",
         "org.openpolicyregistry.template.kind": "policy"
     }
 }
